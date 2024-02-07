@@ -1,0 +1,8 @@
+*.pyc
+*.zip
+/wandb
+*.csv
+/mlruns
+/results
+merged_files.py
+experiements.ipynb
